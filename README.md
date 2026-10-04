@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/jc-kirthi/solving-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jc-kirthi/solving-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jc-kirthi/solving-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3870-count-commas-in-range](https://github.com/jc-kirthi/solving-solutions/tree/master/3870-count-commas-in-range) |
 ## Sorting
 |  |
 | ------- |
