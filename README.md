@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/jc-kirthi/solving-solutions/tree/master/3019-number-of-changing-keys) |
+| [3884-first-matching-character-from-both-ends](https://github.com/jc-kirthi/solving-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3884-first-matching-character-from-both-ends](https://github.com/jc-kirthi/solving-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
 | ------- |
