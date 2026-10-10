@@ -8,8 +8,10 @@ class Solution {
           nums[i]=nums[j];
           nums[j]=temp;
         }
-        if (nums[i] % 2 == 0) i++;
-            if (nums[j] % 2 != 0) j--;
+        if (nums[i] % 2 == 0) 
+        i++;
+        if (nums[j] % 2 != 0) 
+        j--;
     }
 return nums;
     }
