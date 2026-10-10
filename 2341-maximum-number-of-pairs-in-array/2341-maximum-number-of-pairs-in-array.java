@@ -9,11 +9,9 @@ class Solution {
             m.put(nums[i],m.getOrDefault(nums[i],0)+1);
 
        for (int count : m.values()) {
-            an[0] += count / 2;       // Every 2 identical numbers form 1 pair
-            an[1] += count % 2;   // The remainder (0 or 1) is a leftover
+            an[0] += count / 2;       
+            an[1] += count % 2;   
         }
-
-    
     return an;
     }
 }
