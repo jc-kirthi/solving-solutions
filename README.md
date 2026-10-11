@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/jc-kirthi/solving-solutions/tree/master/2706-buy-two-chocolates) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jc-kirthi/solving-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jc-kirthi/solving-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/jc-kirthi/solving-solutions/tree/master/3866-first-unique-even-element) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/jc-kirthi/solving-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2706-buy-two-chocolates](https://github.com/jc-kirthi/solving-solutions/tree/master/2706-buy-two-chocolates) |
+| [3467-transform-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/3467-transform-array-by-parity) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/jc-kirthi/solving-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jc-kirthi/solving-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3467-transform-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/3467-transform-array-by-parity) |
 | [3866-first-unique-even-element](https://github.com/jc-kirthi/solving-solutions/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
