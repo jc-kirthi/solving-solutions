@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/jc-kirthi/solving-solutions/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jc-kirthi/solving-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jc-kirthi/solving-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jc-kirthi/solving-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -134,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/jc-kirthi/solving-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/jc-kirthi/solving-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
