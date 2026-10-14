@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/0020-valid-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jc-kirthi/solving-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/jc-kirthi/solving-solutions/tree/master/0274-h-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
