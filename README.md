@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2942-find-words-containing-character](https://github.com/jc-kirthi/solving-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/jc-kirthi/solving-solutions/tree/master/3019-number-of-changing-keys) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jc-kirthi/solving-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/jc-kirthi/solving-solutions/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jc-kirthi/solving-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/jc-kirthi/solving-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2942-find-words-containing-character](https://github.com/jc-kirthi/solving-solutions/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jc-kirthi/solving-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jc-kirthi/solving-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
