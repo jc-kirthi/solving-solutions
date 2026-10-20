@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/jc-kirthi/solving-solutions/tree/master/2706-buy-two-chocolates) |
 | [3467-transform-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/3467-transform-array-by-parity) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/jc-kirthi/solving-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
+| [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2540-minimum-common-value](https://github.com/jc-kirthi/solving-solutions/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jc-kirthi/solving-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
