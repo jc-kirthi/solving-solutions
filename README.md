@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/jc-kirthi/solving-solutions/tree/master/0412-fizz-buzz) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/jc-kirthi/solving-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/jc-kirthi/solving-solutions/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jc-kirthi/solving-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/jc-kirthi/solving-solutions/tree/master/2652-sum-multiples) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/jc-kirthi/solving-solutions/tree/master/3903-smallest-stable-index-i) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/jc-kirthi/solving-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
