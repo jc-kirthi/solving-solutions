@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jc-kirthi/solving-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/jc-kirthi/solving-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2057-smallest-index-with-equal-value](https://github.com/jc-kirthi/solving-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/jc-kirthi/solving-solutions/tree/master/0682-baseball-game) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jc-kirthi/solving-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jc-kirthi/solving-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
