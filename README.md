@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/jc-kirthi/solving-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/jc-kirthi/solving-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/jc-kirthi/solving-solutions/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/jc-kirthi/solving-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2706-buy-two-chocolates](https://github.com/jc-kirthi/solving-solutions/tree/master/2706-buy-two-chocolates) |
 | [3467-transform-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/3467-transform-array-by-parity) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/jc-kirthi/solving-solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
