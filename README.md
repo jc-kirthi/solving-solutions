@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/jc-kirthi/solving-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jc-kirthi/solving-solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/jc-kirthi/solving-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/jc-kirthi/solving-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0414-third-maximum-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jc-kirthi/solving-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/jc-kirthi/solving-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
