@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0383-ransom-note](https://github.com/jc-kirthi/solving-solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/jc-kirthi/solving-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/jc-kirthi/solving-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jc-kirthi/solving-solutions/tree/master/0415-add-strings) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jc-kirthi/solving-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/jc-kirthi/solving-solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -235,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/jc-kirthi/solving-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
