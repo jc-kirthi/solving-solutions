@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jc-kirthi/solving-solutions/tree/master/0415-add-strings) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jc-kirthi/solving-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/jc-kirthi/solving-solutions/tree/master/2942-find-words-containing-character) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/jc-kirthi/solving-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jc-kirthi/solving-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jc-kirthi/solving-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
