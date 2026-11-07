@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jc-kirthi/solving-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jc-kirthi/solving-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/jc-kirthi/solving-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2057-smallest-index-with-equal-value](https://github.com/jc-kirthi/solving-solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jc-kirthi/solving-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/jc-kirthi/solving-solutions/tree/master/2540-minimum-common-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/jc-kirthi/solving-solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jc-kirthi/solving-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jc-kirthi/solving-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2706-buy-two-chocolates](https://github.com/jc-kirthi/solving-solutions/tree/master/2706-buy-two-chocolates) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jc-kirthi/solving-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/jc-kirthi/solving-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jc-kirthi/solving-solutions/tree/master/2540-minimum-common-value) |
