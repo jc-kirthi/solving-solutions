@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jc-kirthi/solving-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0088-merge-sorted-array) |
+| [0228-summary-ranges](https://github.com/jc-kirthi/solving-solutions/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/jc-kirthi/solving-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/jc-kirthi/solving-solutions/tree/master/0274-h-index) |
