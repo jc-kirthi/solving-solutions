@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jc-kirthi/solving-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jc-kirthi/solving-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/jc-kirthi/solving-solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2706-buy-two-chocolates](https://github.com/jc-kirthi/solving-solutions/tree/master/2706-buy-two-chocolates) |
 ## Stack
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jc-kirthi/solving-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jc-kirthi/solving-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jc-kirthi/solving-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jc-kirthi/solving-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/jc-kirthi/solving-solutions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jc-kirthi/solving-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
