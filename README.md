@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/jc-kirthi/solving-solutions/tree/master/2942-find-words-containing-character) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jc-kirthi/solving-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jc-kirthi/solving-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jc-kirthi/solving-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jc-kirthi/solving-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/jc-kirthi/solving-solutions/tree/master/3866-first-unique-even-element) |
@@ -241,9 +242,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/jc-kirthi/solving-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/jc-kirthi/solving-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/jc-kirthi/solving-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
