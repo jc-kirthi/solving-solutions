@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jc-kirthi/solving-solutions/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/jc-kirthi/solving-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/jc-kirthi/solving-solutions/tree/master/1025-divisor-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/jc-kirthi/solving-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jc-kirthi/solving-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jc-kirthi/solving-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jc-kirthi/solving-solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/jc-kirthi/solving-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/jc-kirthi/solving-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/jc-kirthi/solving-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
