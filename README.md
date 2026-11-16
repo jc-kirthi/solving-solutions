@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jc-kirthi/solving-solutions/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/jc-kirthi/solving-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/jc-kirthi/solving-solutions/tree/master/1025-divisor-game) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/jc-kirthi/solving-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/jc-kirthi/solving-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/jc-kirthi/solving-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jc-kirthi/solving-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
