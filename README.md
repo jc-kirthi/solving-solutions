@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/jc-kirthi/solving-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/jc-kirthi/solving-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/jc-kirthi/solving-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jc-kirthi/solving-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jc-kirthi/solving-solutions/tree/master/0415-add-strings) |
+| [0523-continuous-subarray-sum](https://github.com/jc-kirthi/solving-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/jc-kirthi/solving-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/jc-kirthi/solving-solutions/tree/master/1025-divisor-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/jc-kirthi/solving-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/jc-kirthi/solving-solutions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/jc-kirthi/solving-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/jc-kirthi/solving-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/jc-kirthi/solving-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jc-kirthi/solving-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jc-kirthi/solving-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/jc-kirthi/solving-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/jc-kirthi/solving-solutions/tree/master/1025-divisor-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/jc-kirthi/solving-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
