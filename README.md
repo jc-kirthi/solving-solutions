@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jc-kirthi/solving-solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jc-kirthi/solving-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/jc-kirthi/solving-solutions/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/jc-kirthi/solving-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0268-missing-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jc-kirthi/solving-solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jc-kirthi/solving-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/jc-kirthi/solving-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/jc-kirthi/solving-solutions/tree/master/0268-missing-number) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jc-kirthi/solving-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jc-kirthi/solving-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/jc-kirthi/solving-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/jc-kirthi/solving-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
