@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/jc-kirthi/solving-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/jc-kirthi/solving-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jc-kirthi/solving-solutions/tree/master/0415-add-strings) |
+| [0567-permutation-in-string](https://github.com/jc-kirthi/solving-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jc-kirthi/solving-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jc-kirthi/solving-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/jc-kirthi/solving-solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/jc-kirthi/solving-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/jc-kirthi/solving-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/jc-kirthi/solving-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/jc-kirthi/solving-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/jc-kirthi/solving-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/jc-kirthi/solving-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/jc-kirthi/solving-solutions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jc-kirthi/solving-solutions/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jc-kirthi/solving-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/jc-kirthi/solving-solutions/tree/master/0567-permutation-in-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jc-kirthi/solving-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
