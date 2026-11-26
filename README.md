@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/jc-kirthi/solving-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/jc-kirthi/solving-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/jc-kirthi/solving-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jc-kirthi/solving-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jc-kirthi/solving-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2057-smallest-index-with-equal-value](https://github.com/jc-kirthi/solving-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/jc-kirthi/solving-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jc-kirthi/solving-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jc-kirthi/solving-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jc-kirthi/solving-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/jc-kirthi/solving-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/jc-kirthi/solving-solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/jc-kirthi/solving-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jc-kirthi/solving-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/jc-kirthi/solving-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jc-kirthi/solving-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jc-kirthi/solving-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/jc-kirthi/solving-solutions/tree/master/2540-minimum-common-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/jc-kirthi/solving-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
