@@ -9,6 +9,6 @@ class Solution {
             turns++;
         }
         
-        return turns % 2 == 1;
+        return turns % 2 !=0;
     }
 }
